@@ -4,3 +4,4 @@ This a test.
 This is a fourth line.
 Creating a new branch is quick.
 Createa new branch is quick AMD simple.
+Test of -no-off.
